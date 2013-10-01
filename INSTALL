@@ -72,3 +72,4 @@ Red Hat and Amazon Linux
     sudo yum -y install gcc-c++ numpy python-devel
     sudo easy_install mahotas
 
+
