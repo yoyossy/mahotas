@@ -15,6 +15,7 @@ If you want to work on the C++ code, you can read the chapter in the `internals
 <internals.html>`__ before you start. Also, read the `principles
 <principles.html>`__ declaration.
 
+
 Debug Mode
 ----------
 
